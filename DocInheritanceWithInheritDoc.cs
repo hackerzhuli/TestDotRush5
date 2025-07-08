@@ -1,3 +1,5 @@
+namespace TestDotRush5;
+
 public class AddManager{
     /// <summary>
     /// Adds two integers<br/>

@@ -1,4 +1,5 @@
-﻿
+﻿namespace TestDotRush5;
+
 public interface ISomeInterface{
 
     /// <summary>
