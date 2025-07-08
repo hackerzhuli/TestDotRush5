@@ -54,7 +54,7 @@ public class AddManager2{
     }
 }
 
-public class TestAddManager{
+public class TestDocInheritanceByInheritDoc{
     public void Test(){
         // call every method from the two class here
         AddManager addManager = new AddManager();

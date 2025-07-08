@@ -102,8 +102,8 @@ public class SomeClass : SomeBaseClass{
     }
 }
 
-public static class SomeTest{
-    public static void SomeMethod(){
+public static class TestDocInheritanceByHierarchy{
+    public static void Test(){
         SomeBaseClass someBaseClass = new();
         someBaseClass.Add(1, 2); // mouse hover should show docs from base class
         someBaseClass.Subtract(1, 2); // mouse hover should show docs from base class
